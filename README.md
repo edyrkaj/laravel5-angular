@@ -1,4 +1,8 @@
-## Laravel 5.* + Angular 5
+# Laravel 5.* + Angular 5 + Material Design
+
+<p align="center">
+<img src="https://laravel.com/assets/img/components/logo-laravel.svg"> + <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="80px">
+</p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
