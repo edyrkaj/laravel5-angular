@@ -27,18 +27,34 @@ Laravel has the most extensive and thorough documentation and video tutorial lib
 
 If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
 
-## Laravel Sponsors
+## Angular CLI - Angular Core 5.0.0
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
+You can find angular project under the folder <b>/ngLaravel</b>
 
-We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](http://patreon.com/taylorotwell):
+Terminal commands required to start project:<br>
+<ul>
+    <li><i>npm i or npm install</i></li>
+    <li><i>ng serve</i> - will serve your project on port 4200 and host localhost.</li>
+</ul>
 
-- **[Vehikl](http://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Styde](https://styde.net)**
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
+You project will be run on [localhost:4200](http://localhost:4200)
+
+## Angular Routing Module
+The angular router included in this project based on documentation of 
+Angular CLI [Angular CLI / Routing](https://angular.io/tutorial/toh-pt5)
+<ul>
+    <li><b>ngLaravel</b>/src/app/<i>app-routing.module.ts</i></li>
+</ul>
+
+
+## Angular Material Design
+Another package included with project is [Angualr Material Design](https://github.com/angular/material2)
+On angular project <b>ngLaravel</b> exist a module called material.module which has 
+all declarations for used components of material. You have only to define or add to array all required
+component modules to be called from the main ng module.
+<ul>
+    <li><b>ngLaravel</b>/src/app/material/<i>material.module.ts</i></li>
+</ul>
 
 ## Contributing
 
