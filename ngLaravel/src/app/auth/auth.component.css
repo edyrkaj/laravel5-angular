@@ -1,0 +1,17 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+.example-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 60%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.example-container > * {
+    width: 100%;
+}
+
+.submitButton {
+    background-color: #4daad9;
+}
