@@ -33,7 +33,7 @@ If you're not in the mood to read, [Laracasts](https://laracasts.com) contains o
 
 ## Angular CLI - Angular Core 5.0.0
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
-You can find angular project under the folder <b>/ngLaravel</b>
+You can find angular project under the folder <b>/ngOSX</b>
 
 Terminal commands required to start project:<br>
 <ul>
@@ -47,17 +47,17 @@ You project will be run on [localhost:4200](http://localhost:4200)
 The angular router included in this project based on documentation of 
 Angular CLI [Angular CLI / Routing](https://angular.io/tutorial/toh-pt5)
 <ul>
-    <li><b>ngLaravel</b>/src/app/<i>app-routing.module.ts</i></li>
+    <li><b>ngOSX</b>/src/app/<i>app-routing.module.ts</i></li>
 </ul>
 
 
-## Angular Material Design
-Another package included with project is [Angualr Material Design](https://github.com/angular/material2)
-On angular project <b>ngLaravel</b> exist a module called material.module which has 
+## Angular Material Design Bootstrap
+Another package included with project is [Angualr Material Design Bootstrap](https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design)
+On angular project <b>ngOSX</b> exist a module called material.module which has 
 all declarations for used components of material. You have only to define or add to array all required
 component modules to be called from the main ng module.
 <ul>
-    <li><b>ngLaravel</b>/src/app/material/<i>material.module.ts</i></li>
+    <li><b>ngOSX</b>/src/app/material/<i>material.module.ts</i></li>
 </ul>
 
 ## Contributing
