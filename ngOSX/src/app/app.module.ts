@@ -5,16 +5,13 @@ import {AppComponent} from './app.component';
 import {AppRoutingModule} from './app-routing.module';
 import {AuthComponent} from './auth/auth.component';
 import {HomeComponent} from './home/home.component';
-// import {MDBBootstrapModule} from 'angular-bootstrap-md';
+import {MDBBootstrapModule} from 'angular-bootstrap-md';
 
 const importModules: any = [
   BrowserModule,
-  AppRoutingModule
+  AppRoutingModule,
+  MDBBootstrapModule
 ];
-
-// if (undefined !== MDBBootstrapModule) {
-//   importModules.push(MDBBootstrapModule.forRoot());
-// }
 
 @NgModule({
   imports: importModules,

@@ -25,8 +25,8 @@
         "styles.scss"
       ],
       "scripts": [
-         "./node_modules/chart.js/dist/Chart.js",
-         "./node_modules/hammerjs/hammer.min.js"
+         "../node_modules/chart.js/dist/Chart.js",
+         "../node_modules/hammerjs/hammer.min.js"
       ],
       "environmentSource": "environments/environment.ts",
       "environments": {
